@@ -2,25 +2,6 @@
 
 GOOGLE COLAB https://colab.research.google.com/drive/1OUfGUlCFqiAaS9w886QDvxMVyCaV6RZh?usp=sharing
 
-PART 12: Performance Comparison Table
-## Pre-Trained Model Performance Comparison
-
-| Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC | AUC |
-|---|---|---|---|---|---|---|---|---|---|
-| Pre-Trained Model 1 (VGG16) | 85.71% | 0.8845 | 98.38% | 0.6535 | - | - | - | - | - |
-| Pre-Trained Model 2 (ResNet50) | 38.65% | 2.0447 | 59.69% | 1.8973 | - | - | - | - | - |
-| Pre-Trained Model 3 (MobileNetV2) | 99.84% | 0.0209 | 99.91% | 0.0036 | - | - | - | - | - |
-
----
-
-## Model from Teachable Machine
-
-| Model from Teachable Machine | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC | AUC |
-|---|---|---|---|---|---|---|---|---|---|
-| WAKAME KELP (VGG16) | 85.71% | 0.8845 | 93.38% | 0.51 | 0.82 | 0.81 | 0.81 | 0.84 | 0.85 |
-| WAKAME KELP (ResNet50) | 38.65% | 0.0447 | 59.69% | 0.34 | 0.88 | 0.87 | 0.87 | 0.89 | 0.90 |
-| WAKAME KELP (MobileNetV2) | 99.84% | 0.0209 | 99.91% | 0.58 | 0.94 | 0.94 | 0.94 | 0.96 | 0.97 |
-
 
 GUIDE QUESTIONS (FINAL REFLECTION) 
 
